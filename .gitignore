@@ -137,8 +137,8 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# My image files to ignore until dedicated updates are added
-#/images
+# My image files to ignore (at least until dedicated updates are added)
+/images
 
 # My source data files to ignore
-#/source_data
+/source_data
