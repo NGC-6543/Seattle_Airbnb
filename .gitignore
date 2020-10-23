@@ -138,7 +138,9 @@ dmypy.json
 cython_debug/
 
 # My image files to ignore
-/images
+# commenting out for first load.
+#/images
 
 # My source data files to ignore
-/source_data
+# commenting out for first load.
+#/source_data
